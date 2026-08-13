@@ -19,7 +19,7 @@
 * 🏗️ Learning and exploring **System Design, Microservices, Event-Driven Architecture, REST, and gRPC**
 * 🧠 Strong foundation in **OOP, SOLID principles, Data Structures & Algorithms, and Operating Systems**
 * 🐳 Familiar with **Docker, Git, GitHub, and Postman**
-* 🏆 Awarded **1st Runner-Up** and **2nd Runner-Up** in UIU CSE Project Shows
+
 * 🌱 Continuously learning and improving my software engineering skills
 
 ---
@@ -115,11 +115,6 @@ A full-featured e-commerce web application developed using **ASP.NET Core MVC**.
 🔗 **Repository:** [BookShoppingCardMvc-9-New](https://github.com/ashrafnihan/BookShoppingCardMvc-9-New)
 
 ---
-
-## 🏆 Awards & Achievements
-
-🥇 **1st Runner-Up** — System Design & Analysis Course Project
-*UIU CSE Project Show, Spring 2024*
 
 
 
