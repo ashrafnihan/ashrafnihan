@@ -119,7 +119,7 @@ A full-featured e-commerce web application developed using **ASP.NET Core MVC**.
 ## 🏆 Awards & Achievements
 
 🥇 **1st Runner-Up** — System Design & Analysis Course Project
-*UIU CSE Project Show, Summer 2024*
+*UIU CSE Project Show, Spring 2024*
 
 
 
